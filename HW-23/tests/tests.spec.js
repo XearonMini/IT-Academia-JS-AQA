@@ -18,8 +18,11 @@ test('links test', async ({page})=>{
 })
 test('hover test', async ({page})=>{
   await page.goto('https://playwright.dev/');
-  await page.locator("#__docusaurus > nav > div.navbar__inner > div:nth-child(1) > div").hover();
-  await page.locator("#__docusaurus > nav > div.navbar__inner > div:nth-child(1) > div > ul > li:nth-child(4) > a").hover();
+  await page.locator("#__docusaurus .navbar__item.dropdown.dropdown--hoverable").hover();
+  await page
+      .locator('.dropdown__link')
+      .filter({hasText: (".NET")})
+      .click()
   await expect(page).toHaveTitle(/Playwright .NET/);
 })
 
