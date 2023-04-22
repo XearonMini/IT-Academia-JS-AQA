@@ -1,0 +1,1436 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "track_details": {
+      "type": "object",
+      "properties": {
+        "0": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "1": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "2": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "3": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "4": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "5": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "6": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "7": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "8": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "9": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "10": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "11": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "12": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "13": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "14": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "15": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "16": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "17": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "18": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "19": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "20": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "21": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "22": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "23": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "24": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "25": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "26": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "27": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "28": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "29": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "30": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "31": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "32": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "33": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "34": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "35": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "36": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "37": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "38": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "39": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "40": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "41": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "42": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "43": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "44": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "45": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "46": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "47": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "48": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "49": {
+          "type": "object",
+          "properties": {
+            "link": {
+              "type": "string"
+            },
+            "song_name": {
+              "type": "string"
+            },
+            "artist": {
+              "type": "string"
+            },
+            "thumb": {
+              "type": "string"
+            },
+            "duration": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "link",
+            "song_name",
+            "artist",
+            "thumb",
+            "duration"
+          ]
+        },
+        "pdesc": {
+          "type": "string"
+        },
+        "count": {
+          "type": "integer"
+        },
+        "pimg": {
+          "type": "string"
+        },
+        "likes": {
+          "type": "integer"
+        },
+        "pname": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "pdesc",
+        "count",
+        "pimg",
+        "likes",
+        "pname"
+      ]
+    }
+  },
+  "required": [
+    "track_details"
+  ]
+}
