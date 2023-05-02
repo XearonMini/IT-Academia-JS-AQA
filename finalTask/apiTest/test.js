@@ -16,3 +16,14 @@ test('status code should be 200', async ()=> {
     expect(picStatus.status).toBe(200)
 })
 })
+describe('second', function () {
+    test('status code should be 200', async () => {
+        const response = await axios.get('https://oz.by/goods/ajax/html_box.php', {
+            params: {
+                idGoods: '10768913',
+                type: 'html'
+            },
+        })
+        expect(response.status).toBe(200)
+    })
+})
