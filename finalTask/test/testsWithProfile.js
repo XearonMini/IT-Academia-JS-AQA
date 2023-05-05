@@ -64,6 +64,9 @@ describe('chromedriver tests', () => {
             await baseElements.click((searchComponent.addProduct))
             await driver.sleep(1000);
         }
+        await baseElements.click((searchComponent.chart))
+        const elementInChart = await (searchComponent.elementInChart).getText()
+        await expect(elementInChart.toLowerCase()).to.include('ручка')
     })
     it (`should add to favourite`, async () => {
         await BasePage.navigate('https://oz.by/home/');
