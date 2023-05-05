@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chai": "^4.3.7",
+    "jest": "^29.5.0",
+    "jest-html-reporters": "^3.1.4",
+    "jest-junit": "^16.0.0",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "mocha": {
+    "recursive": true,
+    "timeout": 600000,
+    "reporter": "mocha-junit-reporter"
+  },
+  "devDependencies": {
+    "mocha-junit-reporter": "^2.2.0"
+  }
+}
